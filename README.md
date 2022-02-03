@@ -1,3 +1,3 @@
 ## Python Package Template
 
-Just another very simple python package template.
+Just another python package template.
