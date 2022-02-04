@@ -1,1 +1,1 @@
-#add reqs
+pytest==6.2.5
